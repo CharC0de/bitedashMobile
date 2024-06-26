@@ -1,0 +1,1 @@
+{"name":"bitdash","short_name":"bitedash","description":"Description of your app","start_url":"/bitedash/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","icons":[{"src":"/img/sample_logo_192.png","sizes":"192x192","type":"image/png"},{"src":"/img/sample_logo_512.png","sizes":"512x512","type":"image/png"}]}
